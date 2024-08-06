@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box-style {
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+}
+
+.box-container {
+  display: flex;
+}
+
+.blue-style {
+  background-color: blue;
+}
+.green-style {
+  background-color: green;
+}
+.red-style {
+  background-color: red;
+}
